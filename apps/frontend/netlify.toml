@@ -1,3 +1,4 @@
 [build]
-    command = "pnpm install &&  npx vite build"
-    publish = "dist/client"
+    base = "apps/frontend"
+    command = "pnpm run build"
+    publish = "apps/frontend/dist"
