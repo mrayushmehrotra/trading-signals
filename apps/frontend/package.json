@@ -1,5 +1,5 @@
 {
-  "name": "tanstack-start-example-basic",
+  "name": "trading-screen",
   "private": true,
   "sideEffects": false,
   "type": "module",
@@ -34,6 +34,7 @@
     "zod": "^3.24.2"
   },
   "devDependencies": {
+    "@netlify/vite-plugin-tanstack-start": "^1.1.12",
     "@tailwindcss/postcss": "^4.1.15",
     "@types/node": "^22.5.4",
     "@types/react": "^19.0.8",
