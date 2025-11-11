@@ -407,14 +407,6 @@ export const HomeContent = () => {
                 RIVN (Strong Sell)
               </span>
             </div>
-            <style jsx>{`
-              .tag {
-                padding: 4px 10px;
-                border-radius: 6px;
-                font-size: 0.8rem;
-                font-weight: 500;
-              }
-            `}</style>
           </Card>
 
           {/* Card 5: Personalized Insights (Chart Focus) */}
